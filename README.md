@@ -23,7 +23,7 @@ This project analyzes the factors contributing to flight delays in the United St
 | `airline_delay.csv`           | Raw dataset |
 | `cleaned_airline_delays.csv`  | Cleaned and preprocessed dataset |
 | `Airline Delay.ipynb`         | Main analysis notebook with EDA and modeling |
-| `Untitled.ipynb`              | Draft or supplementary notebook used during analysis |
+
 
 ---
 
