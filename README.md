@@ -19,7 +19,7 @@ This project analyzes the factors contributing to flight delays in the United St
 | File Name                      | Description |
 |-------------------------------|-------------|
 | `Airline Delay Report.docx`   | Final project report with executive summary, CRISP-DM framework, and insights |
-| `Group - 4 Presentation.pptx` | Presentation slides summarizing the key findings and recommendations |
+| `Presentation.pptx`           | Presentation slides summarizing the key findings and recommendations |
 | `airline_delay.csv`           | Raw dataset |
 | `cleaned_airline_delays.csv`  | Cleaned and preprocessed dataset |
 | `Airline Delay.ipynb`         | Main analysis notebook with EDA and modeling |
